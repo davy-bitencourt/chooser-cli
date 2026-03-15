@@ -1,3 +1,0 @@
-/home/dave/Documents/Projects/C++_Projects/chooser-cli/build/CMakeFiles/chooser.dir
-/home/dave/Documents/Projects/C++_Projects/chooser-cli/build/CMakeFiles/edit_cache.dir
-/home/dave/Documents/Projects/C++_Projects/chooser-cli/build/CMakeFiles/rebuild_cache.dir
